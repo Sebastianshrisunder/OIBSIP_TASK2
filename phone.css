@@ -1,0 +1,51 @@
+body{
+    max-width: 400px;
+}
+.head{
+    display: inline-block;
+}
+.left{
+    position: absolute;
+    left: 0;
+    padding: 140px;
+    width: 100px;
+}
+.right{
+    position: absolute;
+    left: 0px;
+    top: 550px;
+    padding: 50px 20px;
+    width: 250px;
+    margin: 20px 70px;
+}
+.about{
+    position: absolute;
+    left: 0;
+    top:850px;
+    padding: 50px 20px;
+    width: 250px;
+    margin: 20px 70px;
+}
+.my-works{
+    position: absolute;
+    left: 0;
+    padding: 10px;
+    top:1300px;
+}
+.cont{
+    justify-items: center;
+    display: inline-block;
+    padding: 50px 20px;
+    margin: 20px 60px;
+}
+footer{
+    position: absolute;
+    left:0;
+    top:2500px;
+    justify-content: center;
+    align-items: center;
+}
+.contact{
+    padding: 0px 10px;
+    margin: 10px 90px;
+}
